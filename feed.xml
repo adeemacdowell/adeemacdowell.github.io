@@ -33,7 +33,7 @@
 				           type="audio/mpeg"
 				           url="https://github.com/adeemacdowell/adeemacdowell.github.io/raw/master/mp3s/002%202020-03-15%2009.36.34%20Calisha%20Bennet%20(Sydney%20Australia).mp3"
 			         />
-			         <guid>https://untoislam.com/podcast/calisha-developing-diamonds</guid>
+			         <guid isPermaLink="true">https://untoislam.com/podcast/calisha-developing-diamonds</guid>
 			         <pubDate>Sun, 15 Mar 2020 01:15:00 +0000</pubDate>
 			         <itunes:duration>3126</itunes:duration>
 			         <itunes:explicit>false</itunes:explicit>
@@ -51,7 +51,7 @@
 				           type="audio/mpeg"
 				           url="https://github.com/adeemacdowell/adeemacdowell.github.io/raw/master/mp3s/001%202020-03-14%2016.15.41%20Saeed%20(Kansas%20USA).mp3"
 			         />
-			         <guid>https://untoislam.com/podcast/saeed-ex-marine</guid>
+			         <guid isPermaLink="true">https://untoislam.com/podcast/saeed-ex-marine</guid>
 			         <pubDate>Sat, 14 Mar 2020 01:15:00 +0000</pubDate>
 			         <itunes:duration>1395</itunes:duration>
 			         <itunes:explicit>false</itunes:explicit>
