@@ -1,61 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-	     <channel>
-		       <atom:link href="https://github.com/adeemacdowell/adeemacdowell.github.io/blob/master/feed.xml" rel="self" type="application/rss+xml" />
-		       <title>Becoming Muslim - Unto Islam</title>
-		       <link>https://www.apple.com/itunes/podcasts/</link>
-		       <language>en-us</language>
-		       <copyright>&#169; 2020 Unto Islam</copyright>
-		       <itunes:author>Adee Simon Macdowell</itunes:author>
-		       <description>
-			         Your first steps to convert and accept Islam and become a Muslim. Listen to interviews with converts to Islam. Listen to why they converted to Islam and how it has changed there lives for the better.
-		       </description>
-		       <itunes:type>serial</itunes:type>
-		       <itunes:owner>
-			         <itunes:name>Adee Simon Macdowell</itunes:name>
-			         <itunes:email>adeemacdowell@icloud.com</itunes:email>
-		       </itunes:owner>
-		       <itunes:image href="https://github.com/adeemacdowell/adeemacdowell.github.io/raw/master/Podcast%20Logo.jpg"/>
-		       <itunes:category text="Religion &amp; Spirituality">
-			         <itunes:category text="Islam"/>
-		       </itunes:category>
-		       <itunes:explicit>false</itunes:explicit>
-		       <item>
-			         <itunes:episodeType>full</itunes:episodeType>
-			         <itunes:episode>2</itunes:episode>
-			         <itunes:season>1</itunes:season>
-			         <title>Developing Diamonds - Helping Women To Become Muslim</title>
-			         <description>
-				           Calisha Bennett's father converted to Islam before she was born. She is the founder of Developing Diamonds and has over twelve years of experience as an active community leader, speaker, teacher and mentor of Muslim women and youth. Specialising in Islamic identity coaching and personal development, Calisha has taught and spoken to countless audiences in Muslim and non-Muslim communities. In her years of community service she has helped to establish an Islamic community centre as well as a wide variety of Islamic classes and programs for Muslims of diverse ages and backgrounds.
-			         </description>
-			         <enclosure
-				           length="44761210"
-				           type="audio/mpeg"
-				           url="https://github.com/adeemacdowell/adeemacdowell.github.io/raw/master/mp3s/002%202020-03-15%2009.36.34%20Calisha%20Bennet%20(Sydney%20Australia).mp3"
-			         />
-			         <guid isPermaLink="true">https://untoislam.com/podcast/calisha-developing-diamonds</guid>
-			         <pubDate>Sun, 15 Mar 2020 01:15:00 +0000</pubDate>
-			         <itunes:duration>3126</itunes:duration>
-			         <itunes:explicit>false</itunes:explicit>
-		       </item>
-		       <item>
-			         <itunes:episodeType>full</itunes:episodeType>
-			         <itunes:episode>1</itunes:episode>
-			         <itunes:season>1</itunes:season>
-			         <title>Ex USA Marine Finds Peace Through Islam</title>
-			         <description>
-				           Saeed lives in Kansas USA. He is an ex-marine. Join him as he tells us his story of converting to Islam and how it gave him peace.
-			         </description>
-			         <enclosure
-				           length="18946198"
-				           type="audio/mpeg"
-				           url="https://github.com/adeemacdowell/adeemacdowell.github.io/raw/master/mp3s/001%202020-03-14%2016.15.41%20Saeed%20(Kansas%20USA).mp3"
-			         />
-			         <guid isPermaLink="true">https://untoislam.com/podcast/saeed-ex-marine</guid>
-			         <pubDate>Sat, 14 Mar 2020 01:15:00 +0000</pubDate>
-			         <itunes:duration>1395</itunes:duration>
-			         <itunes:explicit>false</itunes:explicit>
-		       </item>
-
-	     </channel>
+  <channel>
+    <title>Becoming Muslim - Unto Islam</title>
+    <link>https://www.apple.com/itunes/podcasts/</link>
+    <language>en-us</language>
+    <copyright>&#169; 2020 Unto Islam</copyright>
+    <itunes:author>Adee Simon Macdowell</itunes:author>
+    <description>
+      Your first steps to convert and accept Islam and become a Muslim. Listen to interviews with converts to Islam. Listen to why they converted to Islam and how it has changed there lives for the better.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Adee Simon Macdowell</itunes:name>
+      <itunes:email>adeemacdowell@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://github.com/adeemacdowell/adeemacdowell.github.io/raw/master/Podcast%20Logo.jpg"
+    />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ex USA Marine Finds Peace Through Islam</title>
+      <description>
+          Saeed lives in Kansas USA. He is an ex-marine. Join him as he tells us his story of converting to Islam and how it gave him peace.
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://github.com/adeemacdowell/adeemacdowell.github.io/raw/master/mp3s/001%202020-03-14%2016.15.41%20Saeed%20(Kansas%20USA).mp3"
+      />
+      <guid>https://untoislam.com/podcast/saeed-ex-marine</guid>
+      <pubDate>Sat, 14 Mar 2020 01:15:00 +0000</pubDate>
+      <itunes:duration>1399</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
 </rss>
