@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34688439-70b1-4cbf-a799-4fe87f4508ab" name="Default Changelist" comment="ep64" />
+    <list default="true" id="34688439-70b1-4cbf-a799-4fe87f4508ab" name="Default Changelist" comment="ep64">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,6 +34,11 @@
       <option name="presentableId" value="Default" />
       <updated>1608576761441</updated>
       <workItem from="1608576762494" duration="423000" />
+      <workItem from="1629589921960" duration="131000" />
+      <workItem from="1629590090295" duration="707000" />
+      <workItem from="1629597824760" duration="39000" />
+      <workItem from="1629598252606" duration="71000" />
+      <workItem from="1629598359400" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="ep64">
       <created>1608576912591</created>
@@ -87,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ep64" />
